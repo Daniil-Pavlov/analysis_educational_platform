@@ -16,7 +16,10 @@
 | control | 4,540 | 10,905 | 4 | 11 | 6 |
 | pilot  | 11,508 | 35,364 | 10 | 26 | 9 |
  
-<h2 align="center"><img src="https://github.com/Daniil-Pavlov/analysis_educational_platform/blob/main/newplot%20(1).png?raw=true" height="300"/><img src="https://github.com/Daniil-Pavlov/analysis_educational_platform/blob/main/newplot.png?raw=true" height="350"/>
+<h1 align="center"><img src="https://github.com/Daniil-Pavlov/analysis_educational_platform/blob/main/newplot%20(1).png?raw=true" height="300"/>
+ </h1>
+
+ <h2 align="center"><img src="https://github.com/Daniil-Pavlov/analysis_educational_platform/blob/main/newplot.png?raw=true" height="350"/>
  </h2>
 
 
