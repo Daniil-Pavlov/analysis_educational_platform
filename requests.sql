@@ -10,6 +10,9 @@ FROM (  SELECT st_id, COUNT(correct) AS task_accomplished
 
 -- Расчет метрик
 
+-- Активным считается пользователь, за все время решивший больше 10 задач правильно в любых дисциплинах.
+-- Активным по математике считается пользователь, за все время решивший 2 или больше задач правильно по математике.
+
 WITH new_studs AS ( SELECT st_id,test_grp,active,math_active
                     FROM studs
                     LEFT JOIN ( SELECT  st_id, CASE WHEN COUNT(timest) > 10 THEN True  END AS active
